@@ -23,18 +23,18 @@ To create the programme, there are several requirements needed :
 ## Demonstrasi Code
 ### Test Case 1
 penjelasan
-screenshot
+![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Test%20Case%201.jpeg?raw=true)
 
 ### Test Case 2
 penjelasan
-screenshot
+![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Test%20Case%202.jpeg?raw=true)
 
 ### Test Case 3
 penjelasan
-screenshot
+![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Test%20Case%203.jpeg?raw=true)
 
 ### Test Case 4
 penjelasan
-screenshot
+![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Test%20Case%204.jpeg?raw=true)
 
 ## Conclusion and Future Work
