@@ -28,7 +28,6 @@ To create the programme, there are several requirements needed :
 The customer adds 2 new items to the data item using the tambah_item() method. The items added to the data item are :
 1. Ayam goreng, 2, 20000
 2. Pasta gigi, 3, 15000
-    
 ![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Test%20Case%201.jpeg?raw=true)
 ### Test Case 2
 It turns out that the customer mistakenly entered one of the items that had been added, then the customer used the delete_item() method to delete the item. The item deleted by the customer is the pasta gigi item, so that only the ayam goreng item remains. 
@@ -36,7 +35,6 @@ It turns out that the customer mistakenly entered one of the items that had been
 ### Test Case 3
 The customer wants to restart from the beginning, instead of deleting one by one, the customer simply uses the reset_belanjaan() method to delete all the items that have been added. The customer resets all transactions.
 ![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Test%20Case%203.jpeg?raw=true)
-
 ### Test Case 4
 The customer adds the data item, in the form of :
 1. Ayam goreng, 2, 20000
