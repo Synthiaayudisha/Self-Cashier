@@ -22,19 +22,21 @@ To create the programme, there are several requirements needed :
 ![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Fungsi.jpg?raw=true)
 ## Demonstrasi Code
 ### Test Case 1
-penjelasan
+Customer_1 adds 2 new items to the item list using the add_item() method.
 ![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Test%20Case%201.jpeg?raw=true)
 
 ### Test Case 2
-penjelasan
+It turns out that the customer_1 entered one of the items that had been added incorrectly, then the customer_1 used the delete_item() method to delete the item. The item deleted by the customer_1 is the pasta gigi item, so that only the ayam goreng item remains. 
 ![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Test%20Case%202.jpeg?raw=true)
 
 ### Test Case 3
-penjelasan
+The customer_1 wants to start over from the beginning, instead of deleting one by one, the customer_1 can simply use the reset_transaction() method to delete all the items that have been added. The customer_1 resets all transactions.
 ![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Test%20Case%203.jpeg?raw=true)
 
 ### Test Case 4
-penjelasan
+Because of the rush, it was found that there were several errors in the input of the name, quantity and price of the items. Customer_2 can update the item using update method.
+Then customer_2 checked again using the check_order() method, apparently found an error. Customer_2 incorrectly inputs the quantity of the items that should be an integer into a string. Then customer_2 deleted it.
+After checking and knowing the total price that customer_2 must to pay, customer_2 finally checks out the item list using check_out() method and gets the shopping receipt.
 ![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Test%20Case%204.jpeg?raw=true)
 
 ## Conclusion and Future Work
