@@ -16,9 +16,9 @@ To create the programme, there are several requirements needed :
 8.	Customers can delete one of their shopping list if there is something they want to delete on the purchase list.
 9.	Checking the shopping list to make sure there are no errors.
 10.	The customer can check the total price of the purchase along with additional discounts with terms and conditions:
-  - If the total price is above Rp200,000, you will get a 5% discount.
-  - If the total price is above Rp300,000, then get an 8% discount.
-  -	If the total price is above Rp500,000, then get a 10% discount. Along with several other features that can be added if there are still features that have not been included in the system.
+    - If the total price is above Rp200,000, you will get a 5% discount.
+    - If the total price is above Rp300,000, then get an 8% discount.
+    -	If the total price is above Rp500,000, then get a 10% discount. Along with several other features that can be added if there are still features that have not been included in the system.
 ![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Fungsi.jpg?raw=true)
 ## Demonstrasi Code
 ### Test Case 1
