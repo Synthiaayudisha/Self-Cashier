@@ -23,7 +23,7 @@ To create the programme, there are several requirements needed :
     - If the total price is above Rp500,000, then get a 10% discount. Along with several other features that can be added if there are still features that have not been included in the system.
 ![alt text](https://github.com/Synthiaayudisha/Self-Cashier/blob/main/image/Fungsi.jpg?raw=true)
 
-## Demonstrasi Code
+## Demonstration Code
 ### Test Case 1
 The customer adds 2 new items to the data item using the tambah_item() method. The items added to the data item are :
 1. Ayam goreng, 2, 20000
